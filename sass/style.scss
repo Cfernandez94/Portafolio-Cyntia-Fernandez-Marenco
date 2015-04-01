@@ -1,0 +1,15 @@
+//Parciales base
+@import "partials/variables";
+@import "partials/mixins";
+@import "partials/placeholders";
+@import "partials/base";
+@import "partials/layout";
+
+//Modulos
+@import "partials/sections/navigation";
+@import "partials/sections/header";
+@import "partials/sections/backgroundVideo";
+@import "partials/sections/aboutme";
+@import "partials/sections/portfolio";
+@import "partials/sections/contact";
+@import "partials/sections/footer";
