@@ -1,0 +1,82 @@
+.studio-section{
+	//height: 720px;
+	//background-color: gray;
+	margin-top: 15px;
+	width: 90%;
+	padding-left:5%;
+	padding-right: 5%; 
+  height: 360px;
+}
+
+.subtitle-services-studio{
+	text-align: center;
+padding-top: 15px;
+height: auto;
+}
+
+.services{
+  max-width: 100%;
+  //  overflow: hidden;
+  // overflow-x: scroll;
+}
+.services-studio-list{
+    width: 168%;
+    list-style: none;
+}
+.services-studio-icon{
+  display: block;
+  margin-left: -297%;
+	height:155px;
+}
+.services-studio-item{
+ float:left;
+width: 3%;
+margin-top: 10px;
+margin-left: 9%;
+}
+
+.services-studio-item p{
+width: 73%;
+margin-top: 10px;
+margin-left: -217%;
+text-align: center;
+}
+
+// Equipo
+
+.subtitle-team-studio{
+	text-align: center;
+padding-top: 15px;
+height: auto;
+}
+
+.team{
+  max-width: 100%;
+  //  overflow: hidden;
+  // overflow-x: scroll;
+}
+
+.team-studio-list{
+    width: 168%;
+    list-style: none;
+}
+
+.team-studio-icon{
+  display: block;
+  margin-left: -297%;
+	height:155px;
+}
+
+.team-studio-item{
+ float:left;
+width: 3%;
+margin-top: 10px;
+margin-left: 9%;
+}
+
+.team-studio-item p{
+width: 73%;
+margin-top: 10px;
+margin-left: -217%;
+text-align: center;
+}

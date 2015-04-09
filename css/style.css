@@ -1,0 +1,342 @@
+a {
+  color: #000;
+  text-decoration: none; }
+  a:hover {
+    text-decoration: none; }
+
+.main-nav {
+  position: fixed;
+  width: 100%;
+  height: 160px;
+  z-index: 1; }
+
+.main-nav-ul {
+  margin-left: 30%;
+  padding-top: 50px; }
+
+.main-nav-logo {
+  padding-left: 7%;
+  position: fixed;
+  z-index: 1; }
+
+.nav-ul-item {
+  text-decoration: none;
+  display: inline-block;
+  margin-right: 10%; }
+
+.nav-ul-item-link {
+  text-decoration: none;
+  color: #009FE3; }
+
+.main-header-social-networks {
+  position: fixed;
+  width: 60%;
+  margin-left: 75%;
+  margin-top: 60px;
+  padding-left: 3%;
+  z-index: 1; }
+
+.social-networks-item-facebook {
+  width: 5%;
+  padding-right: 2%; }
+
+.social-networks-item-twitter {
+  width: 5%;
+  padding-right: 2%; }
+
+.social-networks-item-github {
+  width: 5%;
+  padding-right: 2%; }
+
+.social-networks-item-linkedin {
+  width: 5%;
+  padding-right: 2%; }
+
+.social-networks-item-pinterest {
+  width: 5%; }
+
+.main-header {
+  background: url(../img/img.jpg) no-repeat;
+  height: 683px;
+  background-size: cover;
+  width: 100%; }
+
+.banner-video-text {
+  text-align: center;
+  padding-top: 300px;
+  text-transform: uppercase;
+  color: #fff; }
+
+.button {
+  height: 75px;
+  background-color: transparent;
+  width: 35%;
+  border: 1px solid;
+  text-transform: uppercase; }
+
+.btn-more-about-me {
+  border: 1px solid #009FE3;
+  width: 15%;
+  color: #000; }
+
+.aboutme-section {
+  height: 408px;
+  margin-top: -20px;
+  width: 90%;
+  padding-left: 5%;
+  padding-right: 5%; }
+
+.title-aboutme-section {
+  border: 1px solid #000;
+  text-align: center;
+  height: auto;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-left: 3%;
+  margin-right: 3%; }
+
+.academic-skills {
+  width: 45%;
+  display: inline-block;
+  margin-right: 4%; }
+
+.subtitle-academic-skills {
+  border: 1px solid #000;
+  width: 100%;
+  height: auto;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 3%;
+  margin-left: 7%; }
+
+.info-academic-skills {
+  border: 1px solid #000;
+  margin-left: 7%;
+  width: 100%;
+  height: auto;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 3%; }
+
+.profesional-skills {
+  width: 45%;
+  display: inline-block; }
+
+.info-profesional-skills {
+  border: 1px solid #000;
+  margin-left: 3%;
+  width: 100%;
+  margin-right: 3%;
+  height: auto;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 2%; }
+
+.subtitle-profesional-skills {
+  border: 1px solid #000;
+  margin-left: 3%;
+  width: 100%;
+  margin-right: 3%;
+  height: auto;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 2%; }
+
+.portfolio-section {
+  height: 740px;
+  margin-top: -20px;
+  width: 90%;
+  padding-left: 5%;
+  padding-right: 5%; }
+
+.portfolio-section-Proyect {
+  width: 45%;
+  height: 320px;
+  display: inline-block;
+  margin-top: 30px;
+  margin-left: 3%; }
+
+.subtitle-portfolio-section-Proyect {
+  background-color: grey;
+  height: auto;
+  margin-top: 0px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 1%;
+  margin-bottom: 0px;
+  position: absolute;
+  width: 39.5%; }
+
+.image-proyect-1 {
+  width: 100%;
+  height: 320px;
+  background-color: orange; }
+
+.image-proyect-1:hover {
+  background: #000;
+  opacity: 0.5; }
+
+.btn-view-proyect {
+  display: none;
+  position: relative;
+  margin-top: -180px;
+  margin-left: 32%; }
+
+.portfolio-section-Proyect:hover .btn-view-proyect {
+  display: block; }
+
+.studio-section {
+  margin-top: 15px;
+  width: 90%;
+  padding-left: 5%;
+  padding-right: 5%;
+  height: 360px; }
+
+.subtitle-services-studio {
+  text-align: center;
+  padding-top: 15px;
+  height: auto; }
+
+.services {
+  max-width: 100%; }
+
+.services-studio-list {
+  width: 168%;
+  list-style: none; }
+
+.services-studio-icon {
+  display: block;
+  margin-left: -297%;
+  height: 155px; }
+
+.services-studio-item {
+  float: left;
+  width: 3%;
+  margin-top: 10px;
+  margin-left: 9%; }
+
+.services-studio-item p {
+  width: 73%;
+  margin-top: 10px;
+  margin-left: -217%;
+  text-align: center; }
+
+.subtitle-team-studio {
+  text-align: center;
+  padding-top: 15px;
+  height: auto; }
+
+.team {
+  max-width: 100%; }
+
+.team-studio-list {
+  width: 168%;
+  list-style: none; }
+
+.team-studio-icon {
+  display: block;
+  margin-left: -297%;
+  height: 155px; }
+
+.team-studio-item {
+  float: left;
+  width: 3%;
+  margin-top: 10px;
+  margin-left: 9%; }
+
+.team-studio-item p {
+  width: 73%;
+  margin-top: 10px;
+  margin-left: -217%;
+  text-align: center; }
+
+.contact-section {
+  height: 500px;
+  background: url(../img/location.jpg) no-repeat center;
+  background-size: cover;
+  margin-top: -20px;
+  width: 90%;
+  padding-left: 5%;
+  padding-right: 5%; }
+
+.form-contact-section {
+  padding-top: 70px; }
+
+.form-contact-list {
+  list-style: none; }
+
+.form-contact-item-name {
+  width: 40%; }
+
+.form-contact-item-mail {
+  width: 40%; }
+
+.form-contact-item-message {
+  width: 40%; }
+
+.form-contact-item-name input {
+  border: 1px solid #000;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: rgba(255, 255, 255, 0.63);
+  color: #000;
+  width: 100%;
+  margin-bottom: 10px; }
+
+.form-contact-item-mail input {
+  border: 1px solid #000;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: rgba(255, 255, 255, 0.63);
+  color: #000;
+  width: 100%;
+  margin-bottom: 15px; }
+
+.form-contact-item-message textarea {
+  border: 1px solid #000;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: rgba(255, 255, 255, 0.63);
+  color: #000;
+  width: 100%; }
+
+.submit {
+  border: medium none transparent;
+  height: 55px;
+  width: 15%;
+  border-radius: 5px;
+  margin-top: 5px; }
+
+.submit:hover {
+  background-color: #000;
+  color: #fff; }
+
+.main-footer {
+  background-color: #000;
+  height: 120px;
+  margin-top: -17px; }
+
+.main-footer-list-one {
+  text-align: center;
+  color: #fff;
+  display: inline-block;
+  padding-left: 34%;
+  padding-top: 30px;
+  padding-right: 3%; }
+
+.main-footer-list-two {
+  text-align: center;
+  color: #fff;
+  display: inline-block; }
+
+.main-footer-telephone-link {
+  text-align: center;
+  color: #fff;
+  display: inline-block; }
+
+.main-footer-email-link {
+  text-align: center;
+  color: #fff;
+  display: inline-block; }
+
+/*# sourceMappingURL=style.css.map */
