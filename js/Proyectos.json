@@ -1,0 +1,49 @@
+{
+	"proyectos":[
+		{
+			"nombre":"Drupal Camp Costa Rica",
+			"img":"img/Icon-01.png",
+			"url":"trabajos/ElCaminito/Index.html"
+		},
+		{
+			"nombre":"Portfolio",
+			"imagen":"img/Icon-02.png",
+			"url":"trabajos/ElCaminito/Index.html"
+		},
+		{
+			"nombre":"Wikipedia",
+			"img":"img/Icon-03.png",
+			"url":"trabajos/ElCaminito/Index.html"
+		},
+		{
+			"nombre":"La Iluminada",
+			"img":"img/Icon-04.png",
+			"url":"trabajos/ElCaminito/Index.html"
+		},
+		{
+			"nombre":"Hotel El Caminito",
+			"img":"img/Icon-05.png",
+			"url":""
+		},
+		{
+			"nombre":"Infusion",
+			"img":"img/Icon-06.png",
+			"url":""
+		},
+		{
+			"nombre":"Anonimixer",
+			"img":"img/Icon-07.png",
+			"url":"trabajos/ElCaminito/Index.html"
+		},
+		{
+			"nombre":"Fndez MMusic",
+			"img":"img/Icon-08.png",
+			"url":""
+		},
+		{
+			"nombre":"Asa App",
+			"img":"img/Icon-09.png",
+			"url":""
+		}	
+	]
+}

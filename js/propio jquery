@@ -1,0 +1,40 @@
+<label id="lbl_1">Clase #5 Funciones</label>
+//Augmenting
+Function.prototype.method = function(name, func){
+    
+    if(!this.prototype[name]){
+        this.prototype[name] = func;
+    } 
+    return this;
+};
+
+//MAL
+function changeElementColor(c){
+    document.getElementById("lbl_1").style.color = c;
+}
+//changeElementColor("Blue");
+
+var elElemento = document.getElementById('lbl_1');
+
+//Augment  
+Element.method('cambiarColor', function(c){
+    this.style.color = c;
+   return this;
+});
+
+//Augment again
+Element.method('agregarEsteHTML', function(s){
+    this.innerHTML = s;
+    return this;
+});
+
+//elElemento.cambiarColor('Red');
+//elElemento.agregarEsteHTML('Clase #5 ya casi nos vamos');
+
+elElemento.cambiarColor('Green').agregarEsteHTML('Con esto prodrian hacer su propio jQuery');
+
+//Recursion
+
+//Closure
+
+//Module
